@@ -1,0 +1,35 @@
+html {
+  --scroll-snap-type: y mandatory;
+  --scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  --scroll-snap-type: y mandatory;
+}
+
+.App {
+  --overflow: hidden;
+  --position: relative;
+  color: #808080;
+}
+
+section #inicio {
+  --scroll-snap-align: center;
+  --scroll-snap-stop: always;
+}
+
+section #about {
+  --scroll-snap-align: center;
+  --scroll-snap-stop: always;
+}
+
+#xdd {
+  scroll-snap-align: start;
+}
+
+@media only screen and (max-width: 1023px) {
+  .App > div {
+    overflow-y: auto !important;
+  }
+}
