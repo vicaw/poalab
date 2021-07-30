@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/poalab/static/css/main.d09a5127.chunk.css",
-    "main.js": "/poalab/static/js/main.4cbac70e.chunk.js",
-    "main.js.map": "/poalab/static/js/main.4cbac70e.chunk.js.map",
+    "main.js": "/poalab/static/js/main.e7cb4083.chunk.js",
+    "main.js.map": "/poalab/static/js/main.e7cb4083.chunk.js.map",
     "runtime-main.js": "/poalab/static/js/runtime-main.8b2aacb4.js",
     "runtime-main.js.map": "/poalab/static/js/runtime-main.8b2aacb4.js.map",
     "static/css/2.0c77fabf.chunk.css": "/poalab/static/css/2.0c77fabf.chunk.css",
@@ -13,6 +13,7 @@
     "static/css/main.d09a5127.chunk.css.map": "/poalab/static/css/main.d09a5127.chunk.css.map",
     "static/js/2.a9253ac5.chunk.js.LICENSE.txt": "/poalab/static/js/2.a9253ac5.chunk.js.LICENSE.txt",
     "static/media/InstructablesRobot.b21e6bbd.png": "/poalab/static/media/InstructablesRobot.b21e6bbd.png",
+    "static/media/Openday.4a95028e.jpg": "/poalab/static/media/Openday.4a95028e.jpg",
     "static/media/PLbackground.04b5f282.jpg": "/poalab/static/media/PLbackground.04b5f282.jpg",
     "static/media/Pilha3.eef94bec.png": "/poalab/static/media/Pilha3.eef94bec.png",
     "static/media/cma6040.f9373ff2.png": "/poalab/static/media/cma6040.f9373ff2.png",
@@ -48,6 +49,6 @@
     "static/css/2.0c77fabf.chunk.css",
     "static/js/2.a9253ac5.chunk.js",
     "static/css/main.d09a5127.chunk.css",
-    "static/js/main.4cbac70e.chunk.js"
+    "static/js/main.e7cb4083.chunk.js"
   ]
 }
